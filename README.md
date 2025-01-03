@@ -1,0 +1,2 @@
+# pictures
+save_pictures
